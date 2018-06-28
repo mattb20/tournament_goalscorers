@@ -1,0 +1,2 @@
+- bundle install 
+- Use 2.5.0
