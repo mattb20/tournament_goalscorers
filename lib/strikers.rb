@@ -1,2 +1,7 @@
 class Strikers
-end 
+  attr_reader :players
+  @players = []
+  def get_strikers
+  end
+
+end
